@@ -1,0 +1,28 @@
+# Site identity and rendering flags
+
+name: Priya Raghunathan
+description: Scientific Director of the Center for Riverine Systems at the Marlowe Institute for Population Health
+avatar: /images/avatar.png
+
+footer-links:
+  email: p.raghunathan@marlowepophealth.org
+  github: praghunathan
+  twitter:
+  linkedin:
+  orcid:
+
+url: ""
+baseurl: ""
+permalink: /:title/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+sass:
+  style: :expanded
+
+exclude:
+  - README.md
+  - LICENSE
