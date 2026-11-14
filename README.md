@@ -1,15 +1,13 @@
-# Site starter (internal template)
+# Center for Riverine Systems — Public Site
 
-Minimal Jekyll-style starter used by the institute for staff and programme sites.
+Public profile of Priya Raghunathan, Scientific Director of the Center for Riverine Systems at the Marlowe Institute for Population Health.
 
-Structure:
+## Contents
+
+- `index.html` — director's profile
 - `_config.yml` — site identity and rendering flags
-- `index.html` — front page (front matter + content)
-- `about.md` — secondary page
+- `about.md` — about page
 - `404.md` — not-found page
 - `_layouts/default.html` — shared page layout
 - `style.scss` — stylesheet
-
-Copy the whole folder into a new repository when a new site is commissioned. Do not
-publish this starter as-is: replace the placeholder identity values with the subject's
-details from the people directory.
+- `data/public-outputs.csv` — public portion of the FY2026 outputs register
